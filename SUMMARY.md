@@ -1,12 +1,10 @@
-# 目录
+# Summary
 
 ## Overview\(概述\)
 
 * [API概述](README.md)
 
-## 用户
+## User\(用户\)
 
-* [用户\(登录注册\)](USER.md)
-
-
+* [Register/Login\(注册/登录\)](UserRegisterLogin.md)
 

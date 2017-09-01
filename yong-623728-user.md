@@ -13,7 +13,7 @@
 | userName | true | String | 用户名 |
 | passWord | true | String | 密码 |
 
-### JSON示例
+#### JSON示例
 
 ```
 {
@@ -43,6 +43,24 @@
 | :--- | :--- | :--- | :--- |
 | userName | true | String | 用户名 |
 | passWord | true | String | 密码 |
+
+#### JSON示例
+
+```
+{
+    "state": 0,
+    "msg": "用户不存在,请先注册",
+    "data": ""
+}
+```
+
+```
+{
+    "state": 0,
+    "msg": "TODO还需要密码验证",
+    "data": ""
+}
+```
 
 
 

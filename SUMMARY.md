@@ -10,7 +10,7 @@
 
 ## 博客\(Blog\)
 
-* [文章\(Article\)](bo-5ba228-blog/wen-zhang.md)
-* [友情链接\(Links\)](bo-5ba228-blog/you-qing-lian-63a528-links.md)
-* [提交反馈](bo-5ba228-blog/ti-jiao-fan-kui.md)
+* [文章\(Article\)](BLOG/Article.md)
+* [友情链接\(Links\)](BLOG/Links.md)
+* [提交反馈](BLOG/FeedBack.md)
 

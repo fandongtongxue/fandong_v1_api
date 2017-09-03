@@ -17,4 +17,5 @@
 ## Qiniu\(七牛云存储\)
 
 * [文件\(Files\)](QINIU/Files.md)
+* [提交\(Submit\)](QINIU/ti-4ea428-submit.md)
 

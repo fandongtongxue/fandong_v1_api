@@ -40,9 +40,33 @@
 
 #### Method: GET
 
-#### Parameter:Empty
+#### Parameter:
+
+|  | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | :--- |
+| uuid | true | String | 设备唯一识别码 |
 
 #### JSON示例
+
+```
+{
+    "data": {
+        "data": [
+            {
+                "key": "Music_iP1433782551978_2754be50-2df4-4d56-bc28-24b8ca4f462f_by_camera (1).mp3",
+                "hash": "FiB3Sl0kmo54mAgfwgBf4NKeLGz6",
+                "fsize": 267800,
+                "mimeType": "auido/mp3",
+                "putTime": 14863861846941936,
+                "type": 0
+            }
+        ],
+        "marker": "eyJjIjowLCJrIjoiSW1hZ2VfaVAxNDMzNzgyNTUxOTc4XzI3NTRiZTUwLTJkZjQtNGQ1Ni1iYzI4LTI0YjhjYTRmNDYyZl9ieV9jYW1lcmEgKDYpLmpwZyJ9"
+    },
+    "status": 1,
+    "error": 0
+}
+```
 
 ### 1.3文件列表
 
@@ -50,9 +74,33 @@
 
 #### Method: GET
 
-#### Parameter:Empty
+#### Parameter:
+
+|  | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | :--- |
+| uuid | true | String | 设备唯一识别码 |
 
 #### JSON示例
+
+```
+{
+    "data": {
+        "data": [
+            {
+                "key": "File_iP1433782551978_2754be50-2df4-4d56-bc28-24b8ca4f462f_by_camera (1).text",
+                "hash": "FiB3Sl0kmo54mAgfwgBf4NKeLGz6",
+                "fsize": 267800,
+                "mimeType": "application/text",
+                "putTime": 14863861846941936,
+                "type": 0
+            }
+        ],
+        "marker": "eyJjIjowLCJrIjoiSW1hZ2VfaVAxNDMzNzgyNTUxOTc4XzI3NTRiZTUwLTJkZjQtNGQ1Ni1iYzI4LTI0YjhjYTRmNDYyZl9ieV9jYW1lcmEgKDYpLmpwZyJ9"
+    },
+    "status": 1,
+    "error": 0
+}
+```
 
 ### 1.4视频列表
 
@@ -60,9 +108,33 @@
 
 #### Method: GET
 
-#### Parameter:Empty
+#### Parameter:
+
+|  | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | :--- |
+| uuid | true | String | 设备唯一识别码 |
 
 #### JSON示例
+
+```
+{
+    "data": {
+        "data": [
+            {
+                "key": "Video_iP1433782551978_2754be50-2df4-4d56-bc28-24b8ca4f462f_by_camera (1).mp4",
+                "hash": "FiB3Sl0kmo54mAgfwgBf4NKeLGz6",
+                "fsize": 267800,
+                "mimeType": "video/mp4",
+                "putTime": 14863861846941936,
+                "type": 0
+            }
+        ],
+        "marker": "eyJjIjowLCJrIjoiSW1hZ2VfaVAxNDMzNzgyNTUxOTc4XzI3NTRiZTUwLTJkZjQtNGQ1Ni1iYzI4LTI0YjhjYTRmNDYyZl9ieV9jYW1lcmEgKDYpLmpwZyJ9"
+    },
+    "status": 1,
+    "error": 0
+}
+```
 
 
 

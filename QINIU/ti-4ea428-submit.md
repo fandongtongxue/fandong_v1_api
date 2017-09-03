@@ -53,7 +53,7 @@
 
 ### 1.3重新提交
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/submit.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/submit.php)
+#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/resubmit.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/resubmit.php)
 
 #### Method: GET
 

@@ -16,5 +16,5 @@
 
 ## Qiniu\(七牛云存储\)
 
-* [文件\(Files\)](qiniuqi-niu-yun-cun-50a829/wen-jian.md)
+* [文件\(Files\)](QINIU/Files.md)
 

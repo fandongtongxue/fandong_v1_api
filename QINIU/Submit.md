@@ -17,9 +17,9 @@
 ```
 {
     "data": {
-        "accessKey": "JkFGFDvaJ2WDZlvPSnoiNDXUZEdXmbY8qnw7nMBh",
-        "secretKey": "6U5lamt5ei2bgmar3FwDFacg9asRLKt7dNgF0WHJ",
-        "bucket": "fandong-net-cloud"
+        "accessKey": "JkFGFDvaJ2WDZlvPSnoasdsaasdXmbY8qnw7nMBh",
+        "secretKey": "6U5lamt5ei2bgmar3FsdasaasdNgF0WHJ",
+        "bucket": "fandongasdsdt-cloud"
     },
     "status": 1,
     "error": 0

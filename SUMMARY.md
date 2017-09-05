@@ -6,9 +6,9 @@
 
 ## User\(用户\)
 
-* [Register/Login\(注册/登录\)](ECS/UserRegisterLogin.md)
-* [PassWord\(修改密码\)](ECS/passwordxiu-gai-mi-780129.md)
-* [UserInfo\(用户信息\)](ECS/userinfoyong-hu-xin-606f29.md)
+* [Register/Login\(注册/登录\)](ECS/USER/UserRegisterLogin.md)
+* [PassWord\(修改密码\)](ECS/USER/PassWord.md)
+* [UserInfo\(用户信息\)](ECS/USER/UserInfo.md)
 
 ## Blog\(博客\)
 

@@ -32,5 +32,30 @@
 }
 ```
 
+### 3.2更改用户信息
+
+#### URL: [http://112.74.33.82:8080/userChangeUserInfo](http://112.74.33.82:8080/userChangeUserInfo)
+
+#### Method: GET
+
+#### Parameter:
+
+| 参数 | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | :--- |
+| uid | true | String | 用户Id |
+| nickName | true | String | 昵称 |
+| introduce | true | String | 简介 |
+| icon | true | String | 头像 |
+
+#### JSON示例
+
+```
+{
+    "data": ""
+    "status": 1,
+    "msg": "更改用户信息成功"
+}
+```
+
 
 

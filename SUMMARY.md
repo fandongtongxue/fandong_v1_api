@@ -21,11 +21,11 @@
 * [文件\(Files\)](QINIU/Files.md)
 * [提交\(Submit\)](QINIU/Submit.md)
 
-## FANDONG.ME
+## fandong.me
 
 * [HelloWorld](FANDONG.ME/HelloWorld.md)
 
-## 辅助
+## Aid
 
-* [电视直播列表](AID/TV.md)
+* [TVList\(电视直播列表\)](AID/TV.md)
 

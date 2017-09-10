@@ -4,7 +4,7 @@
 
 #### URL: [http://112.74.33.82:8080/userChangePassWord](http://112.74.33.82:8080/userChangePassWord)
 
-#### Method: GET
+#### Method: POST
 
 #### Parameter:
 

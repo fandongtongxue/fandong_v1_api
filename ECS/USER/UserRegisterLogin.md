@@ -4,7 +4,7 @@
 
 #### URL: [http://112.74.33.82:8080/userRegister](http://112.74.33.82:8080/userRegister)
 
-#### Method: GET
+#### Method: POST
 
 #### Parameter:
 
@@ -37,7 +37,7 @@
 
 #### URL: [http://112.74.33.82:8080/userLogin](http://112.74.33.82:8080/userLogin)
 
-#### Method: GET
+#### Method: POST
 
 #### Parameter:
 

@@ -36,7 +36,7 @@
 
 #### URL: [http://112.74.33.82:8080/userChangeUserInfo](http://112.74.33.82:8080/userChangeUserInfo)
 
-#### Method: GET
+#### Method: POST
 
 #### Parameter:
 

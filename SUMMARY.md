@@ -33,3 +33,8 @@
 
 * [Article\(文章\)](GITHUBPAGE/Article.md)
 
+## Comment\(评论\)
+
+* [SubmitComment\(撰写评论\)](COMMENT/SubmitComment.md)
+* [CommentList\(评论列表\)](COMMENT/CommentList.md)
+

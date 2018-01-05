@@ -25,6 +25,15 @@
 
 * [HelloWorld](FANDONG.ME/HelloWorld.md)
 
+## Status\(动态\)
+
+* [动态发布](statusdong-600129/dong-tai-fa-bu.md)
+* [动态列表](statusdong-600129/dong-tai-lie-biao.md)
+
+## fandongtongxue
+
+* [视频列表](fandongtongxue/shi-pin-lie-biao.md)
+
 ## Aid
 
 * [TVList\(电视直播列表\)](AID/TV.md)

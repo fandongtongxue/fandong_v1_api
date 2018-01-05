@@ -27,12 +27,12 @@
 
 ## Status\(动态\)
 
-* [动态发布](statusdong-600129/dong-tai-fa-bu.md)
-* [动态列表](statusdong-600129/dong-tai-lie-biao.md)
+* [动态发布](STATUS/StatusPublish.md)
+* [动态列表](STATUS/StatusList.md)
 
 ## fandongtongxue
 
-* [视频列表](fandongtongxue/shi-pin-lie-biao.md)
+* [视频列表](fandongtongxue/VideoList.md)
 
 ## Aid
 

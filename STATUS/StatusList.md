@@ -1,6 +1,6 @@
 ### 4.2获取动态列表
 
-#### URL: [http://112.74.33.82:8080/statusList](http://112.74.33.82:8080/statusList)
+#### URL: [http://fandong.me:8080/statusList](http://fandong.me:8080/statusList)
 
 #### Method: GET
 

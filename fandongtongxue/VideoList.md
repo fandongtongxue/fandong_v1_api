@@ -1,6 +1,6 @@
 ### 7.1获取视频列表
 
-#### URL: [http://112.74.33.82:8080/videoList](http://112.74.33.82:8080/videoList)
+#### URL: [http://fandong.me:8080/videoList](http://fandong.me:8080/videoList)
 
 #### Method: GET
 

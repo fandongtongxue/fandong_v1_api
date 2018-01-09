@@ -1,6 +1,6 @@
 ### 5.1撰写评论
 
-#### URL: [http://112.74.33.82:8080/comment](http://112.74.33.82:8080/comment)
+#### URL: [http://fandong.me:8080/comment](http://fandong.me:8080/comment)
 
 #### Method: POST
 

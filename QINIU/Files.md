@@ -2,7 +2,7 @@
 
 ### 1.1图片列表
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list\_file\_image.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list_file_image.php)
+#### URL:[https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list\_file\_image.php](https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list_file_image.php)
 
 #### Method: GET
 

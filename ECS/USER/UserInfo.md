@@ -2,7 +2,7 @@
 
 ### 3.1获取用户信息
 
-#### URL: [http://112.74.33.82:8080/userInfo](http://112.74.33.82:8080/userInfo)
+#### URL: [http://fandong.me:8080/userInfo](http://fandong.me:8080/userInfo)
 
 #### Method: GET
 

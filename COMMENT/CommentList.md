@@ -1,6 +1,6 @@
 ### 5.2获取评论列表
 
-#### URL: [http://112.74.33.82:8080/commentList](http://112.74.33.82:8080/commentList)
+#### URL: [http://fandong.me:8080/commentList](http://fandong.me:8080/commentList)
 
 #### Method: GET
 

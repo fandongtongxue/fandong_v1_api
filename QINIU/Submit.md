@@ -2,7 +2,7 @@
 
 ### 1.1检查是否已提交
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/check.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/check.php)
+#### URL:[https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/check.php](https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/check.php)
 
 #### Method: GET
 

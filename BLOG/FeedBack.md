@@ -2,7 +2,7 @@
 
 ### 1.1提交反馈
 
-#### URL: [http://api.fandong.me/blog/submit\_feedback.php](http://api.fandong.me/blog/submit_feedback.php)
+#### URL: [https://fandong.me/api/blog/submit\_feedback.php](https://fandong.me/api/blog/submit_feedback.php)
 
 #### Method: GET
 

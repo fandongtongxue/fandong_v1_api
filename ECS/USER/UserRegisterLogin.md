@@ -2,7 +2,7 @@
 
 ### 1.1用户注册
 
-#### URL: [http://112.74.33.82:8080/userRegister](http://112.74.33.82:8080/userRegister)
+#### URL: [http://fandong.me:8080/userRegister](http://fandong.me:8080/userRegister)
 
 #### Method: POST
 

@@ -2,7 +2,7 @@
 
 ### 1.1HelloWorld
 
-#### URL:[http://api.fandong.me/api/fandong.me/ThinkPHP/public/](http://api.fandong.me/api/fandong.me/ThinkPHP/public/)
+#### URL:[https://fandong.me/api/fandong.me/ThinkPHP/public/](https://fandong.me/api/fandong.me/ThinkPHP/public/)
 
 #### Method: GET
 

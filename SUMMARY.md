@@ -21,10 +21,6 @@
 * [文件\(Files\)](QINIU/Files.md)
 * [提交\(Submit\)](QINIU/Submit.md)
 
-## fandong.me
-
-* [HelloWorld](FANDONG.ME/HelloWorld.md)
-
 ## Status\(动态\)
 
 * [动态发布](STATUS/StatusPublish.md)

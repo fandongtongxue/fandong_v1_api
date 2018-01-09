@@ -2,7 +2,7 @@
 
 ### 2.1修改密码
 
-#### URL: [http://112.74.33.82:8080/userChangePassWord](http://112.74.33.82:8080/userChangePassWord)
+#### URL: [http://fandong.me:8080/userChangePassWord](http://fandong.me:8080/userChangePassWord)
 
 #### Method: POST
 

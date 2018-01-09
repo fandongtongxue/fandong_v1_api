@@ -1,6 +1,6 @@
 ### 4.1发表动态
 
-#### URL: [http://112.74.33.82:8080/statusPublish](http://112.74.33.82:8080/statusPublish)
+#### URL: [http://fandong.me:8080/statusPublish](http://fandong.me:8080/statusPublish)
 
 #### Method: POST
 
@@ -22,8 +22,6 @@
     "msg": "动态发布成功"
 }
 ```
-
-
 
 
 

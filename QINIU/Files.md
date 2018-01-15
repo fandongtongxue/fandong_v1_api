@@ -2,7 +2,7 @@
 
 ### 1.1图片列表
 
-#### URL:[https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list\_file\_image.php](https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list_file_image.php)
+#### URL:[http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list\_file\_image.php](http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list_file_image.php)
 
 #### Method: GET
 
@@ -36,7 +36,7 @@
 
 ### 1.2音乐列表
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list\_file\_music.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list_file_music.php)
+#### URL:[http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list\_file\_music.php](http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list_file_music.php)
 
 #### Method: GET
 
@@ -70,7 +70,7 @@
 
 ### 1.3文件列表
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list\_file.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list_file.php)
+#### URL:[http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list\_file.php](http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list_file.php)
 
 #### Method: GET
 
@@ -104,7 +104,7 @@
 
 ### 1.4视频列表
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list\_file\_video.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/list_file_video.php)
+#### URL:[http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list\_file\_video.php](http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/list_file_video.php)
 
 #### Method: GET
 

@@ -2,7 +2,7 @@
 
 ### 1.1检查是否已提交
 
-#### URL:[https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/check.php](https://fandong.me/api/qiniucloudstorge/php-sdk-master/examples/check.php)
+#### URL:[http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/check.php](http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/check.php)
 
 #### Method: GET
 
@@ -28,7 +28,7 @@
 
 ### 1.2提交
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/submit.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/submit.php)
+#### URL:[http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/submit.php](http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/submit.php)
 
 #### Method: GET
 
@@ -53,7 +53,7 @@
 
 ### 1.3重新提交
 
-#### URL:[http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/resubmit.php](http://api.fandong.me/api/qiniucloudstorge/php-sdk-master/examples/resubmit.php)
+#### URL:[http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/resubmit.php](http://fandong.me/api/QiniuServer/vendor/qiniu/php-sdk/examples/resubmit.php)
 
 #### Method: GET
 

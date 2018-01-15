@@ -34,7 +34,7 @@
 
 ### 3.2更改用户信息
 
-#### URL: [http://112.74.33.82:8080/userChangeUserInfo](http://112.74.33.82:8080/userChangeUserInfo)
+#### URL: [http://fandong.me:8080/userChangeUserInfo](http://fandong.me:8080/userChangeUserInfo)
 
 #### Method: POST
 

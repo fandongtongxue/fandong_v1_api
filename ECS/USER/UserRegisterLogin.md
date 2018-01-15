@@ -35,7 +35,7 @@
 
 ### 1.2用户登录
 
-#### URL: [http://112.74.33.82:8080/userLogin](http://112.74.33.82:8080/userLogin)
+#### URL: [http://fandong.me:8080/userLogin](http://fandong.me:8080/userLogin)
 
 #### Method: POST
 

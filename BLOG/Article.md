@@ -2,7 +2,7 @@
 
 ### 1.1文章列表
 
-#### URL: [https://fandong.me/api/blog/list\_article.php](https://fandong.me/api/blog/list_article.php)
+#### URL: [http://fandong.me/api/blog/list\_article.php](http://fandong.me/api/blog/list_article.php)
 
 #### Method: GET
 
